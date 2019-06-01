@@ -18,3 +18,4 @@ The connections to the Arduino required are as follows:
   The analog In port on the current sensor is connected to the analog input A0 in the Arduino board. The ground and power options are connected too to the same rales in the breadboard as the load cells.
   
 
+The 3D models, made using SolidEdge student version, for the test stand designed for the project can be accessed via the following link: https://www.dropbox.com/sh/wccc05g8mg9wy5g/AAAvbkY5JbN32_F8akKV1prba?dl=0 
